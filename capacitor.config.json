@@ -1,0 +1,13 @@
+{
+  "appId": "com.ventis-inc.ecclerium",
+  "appName": "ventisEcclerium",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

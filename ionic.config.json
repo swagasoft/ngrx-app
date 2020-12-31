@@ -1,0 +1,7 @@
+{
+  "name": "ventisEcclerium",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
